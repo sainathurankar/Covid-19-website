@@ -1,0 +1,45 @@
+
+.menu ul{
+    display: inline-flex;
+    margin: 10px;
+}
+.menu ul li{
+    list-style: none;
+    margin: 20 20px;
+    color: #b2b1b1;
+    cursor: pointer;
+}
+.logo img{
+    width: 50px;
+    margin-top: -7px;
+    margin-right: 300px;
+}
+.active{
+    color: Yellow !important; 
+}
+
+body{
+background: linear-gradient(to right,#ffe5cc,white );
+    font-family: sans-serif;
+}
+h1{
+    
+    color: forestgreen;
+    margin: 30px 0 50px;
+}
+.gallery{
+    margin: 10px 50px;
+    
+}
+.gallery img{
+    width: 230px;
+    height:180px;
+    padding: 5px;
+    //filter: grayscale(100%);
+    transition: 1s;
+}
+.gallery img:hover{
+    filter: grayscale(0);
+    transform: scale(1.1);
+
+}
