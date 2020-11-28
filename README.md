@@ -1,7 +1,9 @@
 # Covid-19-website
-We have created an covid-19 informative website for india.
+Designed Covid-19 informative website for India.
 
 How to use?
-Just clone the repo and open index.html in any browser (Crome Recommended)
+Just clone the repo and open index.html in any browser (Chrome Recommended).
 
-Note: Website runs well only on desktop. Dont open in Smartphone
+Note: Website is designed for desktop.
+
+https://covid19rvce.000webhostapp.com
